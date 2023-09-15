@@ -36,7 +36,6 @@ function MovieDetails() {
         data-testid="movie-poster"
       />
       <p data-testid="movie-overview">{movie.overview}</p>
-      {/* Display other movie details here */}
     </div>
   );
 }
